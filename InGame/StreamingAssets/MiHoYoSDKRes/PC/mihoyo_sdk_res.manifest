@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 0
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc5788b2f33c685a5567d0d020aee66b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45ab68367ae2d2489b981a844f7241bc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f0449828438f1c4eb0712205cc11bb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2076c893c3fab4e2abe8c1db96a63559, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af6afa24355df46b096de0e20c59d8a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35bf0bd4ded61a34f9be34f6738e4010, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdfea7750f9c3e9408d30cbb5e278613, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff033578aaf35a2409148a0ac4e0658a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c15f5ba99c9424ab5dbaeb25735a0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 131d2cecc2ab662428628c37693852f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b27bad8d50722bb4083b964da1d1cae4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af6aa54f401cd2c4796c01c47142aac2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindTapTapDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/SecondRealNameGrantPhone.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Browser.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoginByPhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/PopImageDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_7.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_20.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_2.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/ConfirmDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/server_pc.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/zh-cn.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Font/zh-cn.ttf
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoginByAccountDialogSpecial.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/GooglePCOAuthDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaGuestBindDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Animation/LoadingLoop.anim
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Animation/DialogShow.anim
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/GrantSafePhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/th.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoginByAccountDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaGrantMailDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/SecondRealNameDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Animation/TipsMoveUp.anim
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/ZFWebViewCanvas.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/MiHoYoSDKWebView.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/TipsBar.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/PSBindDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_6.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/RealNameAuthDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_4.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/PayDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/MiHoYoWebView.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoadingDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/id.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/SDKUICanvas.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/de.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindPhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/TipsToast.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/AlertDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/fr.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaBindMailDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_9.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaAccountLoginDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindMailDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/NoticeWebViewCanvas.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/ja.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindSafeMobileDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_5.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/vi.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/zh-tw.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/GrantBindPhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/pt.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoadingWheel.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaVerifyPhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_3.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/NewDeviceLoginTips.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/es.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/MiHoYoSDKGeetestView.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/ru.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/UserAgreementDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Animation/GeneralConfirmDialog.anim
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/NewUserAgreementDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_8.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/RealPeopleDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/Animation/WebShow.anim
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_11.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LogoutTipsDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaGrantPhoneDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_0.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/en.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindMHYDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_19.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/ko.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/LoginByQRCodeDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_10.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/PSUserAgreementDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/Config/sdk_config_1.json
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/SecondRealNameGrantMail.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindMobileGrantMail.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/OverSeaPayDialog.prefab
+- Assets/Plugins/MiHoYoSDK/AsbRes/UI/BindMailByCodeDialog.prefab
+Dependencies: []
